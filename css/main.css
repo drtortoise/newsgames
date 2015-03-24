@@ -69,8 +69,16 @@ p {
 	font-size:1.6em;
 	line-height:1.8em;
 }
+strong {
+	font-weight:bold;
+}
 #map {
 	clear:both;
 	height:200px;
 	margin-top:20px;
+}
+.footer {
+	margin-top:20px;
+	border-top:3px solid #eee;
+	padding-top:20px;
 }
